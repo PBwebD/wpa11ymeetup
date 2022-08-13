@@ -1,0 +1,35 @@
+{
+	"version": 2,
+	"settings": {
+        "typography": {
+	        "dropCap": false,
+	        "fontSizes":[
+		        {
+			        "slug": "extra-small",
+					"size": "1rem",
+					"name": "Extra small"
+				},
+				{
+					"slug": "small",
+					"size": "1.125rem",
+					"name": "Small"
+				},
+				{
+					"slug": "medium",
+					"size": "1.25rem",
+					"name": "Medium"
+				},
+				{
+					"slug": "large",
+					"size": "1.5rem",
+					"name": "Large"
+				},
+				{
+					"slug": "x-large",
+					"size": "2rem",
+					"name": "XL"
+				}
+			]
+		}
+    }
+}

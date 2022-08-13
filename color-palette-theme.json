@@ -1,0 +1,19 @@
+{
+	"version": 2,
+	"settings": {
+		"color": {
+            "palette": [
+                {
+                    "slug": "primary",
+                    "color": "#7c027c",
+                    "name": "Purple"
+                },
+                {
+                    "slug": "secondary",
+                    "color": "#420142",
+                    "name": "Dark purple"
+                }
+            ]
+		}
+	}
+}

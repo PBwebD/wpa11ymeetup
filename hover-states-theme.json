@@ -1,0 +1,31 @@
+{
+	"version": 2,
+	"styles": {
+		"elements": {
+            "link": {
+                "typography": {
+                    "textDecoration": "none"
+                },
+                "border": {
+                    "bottom": {
+                        "width": "2px",
+                        "color": "currentColor",
+                        "style": "solid"
+                    }
+                },
+                ":hover": {
+                    "typography": {
+                        "textDecoration": "none"
+                    },
+                    "border": {
+                        "bottom": {
+                            "width": "2px",
+                            "color": "#111",
+                            "style": "dotted"
+                        }
+                    }
+                }
+            }
+		}
+	}
+}
